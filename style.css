@@ -1,0 +1,19 @@
+div {
+    display: flex;
+    align-items: center;
+    justify-content: center;  
+}
+
+h1 {
+    color: rgb(252, 0, 0);
+}
+
+p {
+    font-weight: bold;
+}
+
+img {
+    width: 500px;
+    height: auto;
+}
+
